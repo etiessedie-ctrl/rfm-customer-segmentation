@@ -104,11 +104,6 @@ Le script `src/main.py` exécute l'intégralité du pipeline (nettoyage → RFM 
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` (K-Means) · `Matplotlib` / `Seaborn`
 
-##  Pistes d'amélioration
-
-- Ajouter un scoring de probabilité de churn (modèle supervisé) en complément de la segmentation.
-- Déployer un dashboard interactif (Streamlit) pour explorer les segments dynamiquement.
-- Ajouter des tests unitaires sur les fonctions de `src/` (pytest) pour sécuriser les évolutions futures.
 
 ---
 
