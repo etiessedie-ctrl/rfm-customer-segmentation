@@ -112,4 +112,4 @@ Le script `src/main.py` exécute l'intégralité du pipeline (nettoyage → RFM 
 
 ---
 
-*Projet réalisé dans le cadre de la construction d'un portfolio Data Science — Tiéssedie Aboua Adou Emmanuel·  · [lien portfolio]*
+* Tiéssedie Aboua Adou Emmanuel· www.linkedin.com/in/emmanuel-tiessedie-494a54348 · [lien portfolio]*
